@@ -1,6 +1,6 @@
 # osticket-prereqs
 <p align="center">
-<img src="[https://i.imgur.com/Clzj7Xs.png](https://opengraph.githubassets.com/e13b0e7d25b581153559ef3133e5cc7886a909fa4a251f748096673b40ef9ac1/osTicket/osTicket)" alt="osTicket logo"/>
+<img src="[[https://i.imgur.com/Clzj7Xs.png](https://opengraph.githubassets.com/e13b0e7d25b581153559ef3133e5cc7886a909fa4a251f748096673b40ef9ac1/osTicket/osTicket)](https://blog.desdelinux.net/wp-content/uploads/2016/12/osTicket-para-Linux.png)" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
